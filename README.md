@@ -50,14 +50,6 @@ My personal website is built with modern web technologies:
 
 ---
 
-## 📚 Recommended Reading
-
-For those interested in my research perspective, I recommend exploring:
-
-- [Tractatus Logico-Philosophicus](https://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus) - A foundational work that influences my approach to logical reasoning and AI systems
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to collaborations and discussions about AI, ML, and innovative research. Feel free to reach out through any of the channels above!
