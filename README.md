@@ -22,9 +22,9 @@ I am constantly learning new knowledge and hope to create interesting and useful
 
 ## 🔬 Research Interests
 
-- **Non-sequential Decoding and Reasoning**: Exploring novel approaches to AI cognition beyond traditional sequential processing
-- **Engineering Task Agents**: Developing specialized AI agents for complex engineering challenges
-- **Automated Research**: Pushing the boundaries of AI-driven scientific discovery
+- **Data Analysis & Visualization**: Exploring data to discover insights and patterns.
+- **Machine Learning & Image Classification**: Building models to solve real-world problems.
+- **Python Programming**: Focusing on practical, interesting, and useful projects.
 
 ---
 
