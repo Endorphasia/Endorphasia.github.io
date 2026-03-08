@@ -45,12 +45,9 @@ I am constantly learning new knowledge and hope to create interesting and useful
 
 My personal website is built with modern web technologies:
 
-- **Frontend**: React, TypeScript, Tailwind CSS
-- **Framework**: Remix (App Router)
-- **UI Components**: Shadcn UI, Radix UI
-- **Backend**: Node.js, Supabase
-- **Development**: Modern development practices with strong typing and performance optimization
-- **AI**: Cursor
+- Programming: Python (Pandas, NumPy, Matplotlib, Keras)
+- ML/DL: DenseNet, Multi-label Classification, Hit@k Evaluation
+- Tools: VS Code, Git, GitHub, Data Visualization
 
 ---
 
