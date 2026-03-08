@@ -30,10 +30,14 @@ I am constantly learning new knowledge and hope to create interesting and useful
 
 ## 🎯 Recent Achievements
 
-- 🔬 2025/05: Research Intern at Amazon SF AGI Lab
-- 🎉 2025/01: Two papers accepted at ICLR 2025:
-  - [Commit0](https://github.com/commit-0/commit0)
-  - [GameArena](https://github.com/your-username/GameArena)
+- 2025.02-2025.03 Movie Poster Multi-Label Classification
+  Built a multi-label image classification model based on DenseNet & Keras, achieving 0.8 hit@10 on 1000+ poster dataset.
+
+- 2025.03 McDonald's Customer Data Analysis
+  Analyzed 1453 customer records, built user profiles, and provided business optimization strategies with data visualization.
+
+- 2025.03 Dangdang Bestselling Book Data Analysis
+  Analyzed 2000+ book data, calculated price-sales correlation, evaluated 176 publishers, and delivered data analysis report.
 
 ---
 
